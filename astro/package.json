@@ -1,0 +1,16 @@
+{
+  "name": "afraid-aperture",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.2.3",
+    "astro-sanity": "^1.1.7"
+  }
+}
